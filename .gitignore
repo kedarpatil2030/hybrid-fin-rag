@@ -1,0 +1,13 @@
+# Environment variables & keys
+.env
+
+# Python virtual environment
+venv/
+.venv/
+__pycache__/
+
+# Local data cache
+chunks.pkl
+
+# PDF files (Optional: if the PDF is large or proprietary, ignore it; otherwise, you can keep it)
+pdf/
