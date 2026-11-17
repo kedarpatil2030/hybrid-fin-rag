@@ -28,3 +28,6 @@ hybrid-fin-rag/
 ├── ingest.py                 # One-time script to parse PDF, chunk, and upsert to Pinecone
 ├── main.py                   # Interactive CLI chat loop leveraging hybrid search
 └── README.md                 # Project documentation
+-------------------------------------------------------------
+
+pip install -r requirements.txt
